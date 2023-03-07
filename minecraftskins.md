@@ -13,16 +13,19 @@ layout: page title: "Minecraft Skins Form" permalink: /skinform
             <img src="https://i.imgur.com/Q3omGNG.png" alt="Hurricane Studios Logo" class="centerimage">
            <center>
             <section>
-            <button class="topbuttons">
+                <a href="https://hurricanestudios.github.io/hswebsite"><button>
+                Home
+                    </button></a>
+            <button>
                 About Us
             </button>
-            <button class="topbuttons">
+            <button>
                 Socials
             </button>
-            <button class="topbuttons">
+            <button>
                 Minecraft Skin Form
             </button>
-            <button class="topbuttons">
+            <button>
                 Support Us
             </button>
         </section>
